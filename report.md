@@ -13,3 +13,5 @@ _**Autor:** Alberto Pastor Moreno_
 - \[7]: (Magenta Studio: Ableton Live)[https://magenta.tensorflow.org/studio/ableton-live]
 - \[8]: (Music Transformer: Generating Music with Long-Term Structure)[https://magenta.tensorflow.org/music-transformer]
 - \[9]: (Ableton Reference Manual)[https://www.ableton.com/en/manual/welcome-to-live/]
+- \[10]: (MusicVAE: Creating a palette for musical scores with machine learning)[https://magenta.tensorflow.org/music-vae]
+- \[11]: (MuseNet)[https://openai.com/blog/musenet/]
