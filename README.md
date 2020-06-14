@@ -24,7 +24,7 @@ Magenta Studio es una colección de utilidades de composición musical con intel
 - _Interpolate:_ dados dos clips MIDI de melodía o de batería, los mezcla produciendo un clip MIDI nuevo que transiciona entre los dos clips originales.
 - _Groove:_ le aporta a un clip MIDI de batería el _feel_ de la actuación de un baterista humano, modificando el tiempo y nivel de cada nota del clip.
 
-El resultado del proceso creativo de composición con esta herramienta se puede escuchar (aquí)[Magenta-Studio.mp3]
+El resultado del proceso creativo de composición con esta herramienta se puede escuchar [aqui](Magenta-Studio.mp3)
 
 ### Ableton Live
 
@@ -34,13 +34,13 @@ Para desarrollar la pieza musical explicada en el apartado anterior utilicé Abl
 
 Music Transformer es una herramienta de composición de piezas musicales en piano considerando estructuras de larga duración. A diferencia de lo producido con Magenta Studio, con Music Transformer he podido producir una pieza de 5 minutos de duración sobre la cual se pueden distinguir diferentes partes coherentes entre sí. Esta herramienta predice las siguientes notas dada una secuencia recursiva, al igual que Magenta Studio, pero tiene consideración de la estructura musical de toda la pieza. 
 
-El resultado del proceso creativo de composición con esta herramienta se puede encontrar (aquí)[Music-Transformer.mp3]
+El resultado del proceso creativo de composición con esta herramienta se puede encontrar [aquí](Music-Transformer.mp3)
 
 ### MuseNet
 
 MuseNet es una herramienta de composición de piezas musicales por fragmentos con hasta 10 instrumentos diferentes, desarrollada por OpenAI, que permite basarse en el estilo de grandes compositores como Mozart, Chopin o Beethoven, utilizando instrumentos que no eran típicos en sus obras. Utilizando esta herramienta he producido una pieza basada en el estilo de Beethoven.
 
-El resultado del proceso creativo de composición con esta herramienta se puede encontrar (aquí)[https://github.com/albertopastormr/saperi/MuseNet-Beethoven.mp3]
+El resultado del proceso creativo de composición con esta herramienta se puede encontrar [aquí](MuseNet-Beethoven.mp3)
 
 ## Futuro de Saperi
 
@@ -48,15 +48,15 @@ El futuro de Saperi se encuentra en la integración de herramientas potentes com
 
 ## Bibliografía
 
-- \[1]: (Magenta Studio: Augmenting Creativity with Deep Learning in Ableton Live)[https://research.google/pubs/pub48280/]
-- \[2]: (Learning to Create Piano Performances)[https://research.google/pubs/pub46748/]
-- \[3]: (Approachable music composition with machine learning at scale)[https://research.google/pubs/pub48629/]
-- \[4]: (Learning to Groove with Inverse Sequence Transformations)[https://research.google/pubs/pub48238/]
-- \[5]: (DDSP: Differentiable Digital Signal Processing)[https://openreview.net/forum?id=B1x1ma4tDr]
-- \[6]: (Magenta Studio)[https://magenta.tensorflow.org/studio-announce]
-- \[7]: (Magenta Studio: Ableton Live)[https://magenta.tensorflow.org/studio/ableton-live]
-- \[8]: (Music Transformer: Generating Music with Long-Term Structure)[https://magenta.tensorflow.org/music-transformer]
-- \[9]: (Ableton Reference Manual)[https://www.ableton.com/en/manual/welcome-to-live/]
-- \[10]: (MusicVAE: Creating a palette for musical scores with machine learning)[https://magenta.tensorflow.org/music-vae]
-- \[11]: (MuseNet)[https://openai.com/blog/musenet/]
-- \[12]: (The MAESTRO Dataset and Wave2Midi2Wave)[https://magenta.tensorflow.org/maestro-wave2midi2wave]
+- \[1]: [Magenta Studio: Augmenting Creativity with Deep Learning in Ableton Live](https://research.google/pubs/pub48280/)
+- \[2]: [Learning to Create Piano Performances](https://research.google/pubs/pub46748/)
+- \[3]: [Approachable music composition with machine learning at scale](https://research.google/pubs/pub48629/)
+- \[4]: [Learning to Groove with Inverse Sequence Transformations](https://research.google/pubs/pub48238/)
+- \[5]: [DDSP: Differentiable Digital Signal Processing](https://openreview.net/forum?id=B1x1ma4tDr)
+- \[6]: [Magenta Studio](https://magenta.tensorflow.org/studio-announce)
+- \[7]: [Magenta Studio: Ableton Live](https://magenta.tensorflow.org/studio/ableton-live)
+- \[8]: [Music Transformer: Generating Music with Long-Term Structure](https://magenta.tensorflow.org/music-transformer)
+- \[9]: [Ableton Reference Manual](https://www.ableton.com/en/manual/welcome-to-live/)
+- \[10]: [MusicVAE: Creating a palette for musical scores with machine learning](https://magenta.tensorflow.org/music-vae)
+- \[11]: [MuseNet](https://openai.com/blog/musenet/)
+- \[12]: [The MAESTRO Dataset and Wave2Midi2Wave](https://magenta.tensorflow.org/maestro-wave2midi2wave)
