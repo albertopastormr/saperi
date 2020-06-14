@@ -3,8 +3,10 @@
 **Proyecto Final Informática Musical, Facultad de Informática, Universidad Complutense de Madrid**
 
 _**Autor:** Alberto Pastor Moreno_
-_**Grupo:** 15, Moogers
-_**Repositorio GitHub:** https://github.com/albertopastormr/saperi
+
+_**Grupo:** 15, Moogers_
+
+_**Repositorio GitHub:** https://github.com/albertopastormr/saperi_
 
 ## Descripción
 
