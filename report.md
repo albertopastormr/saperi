@@ -15,3 +15,4 @@ _**Autor:** Alberto Pastor Moreno_
 - \[9]: (Ableton Reference Manual)[https://www.ableton.com/en/manual/welcome-to-live/]
 - \[10]: (MusicVAE: Creating a palette for musical scores with machine learning)[https://magenta.tensorflow.org/music-vae]
 - \[11]: (MuseNet)[https://openai.com/blog/musenet/]
+- \[12]: (The MAESTRO Dataset and Wave2Midi2Wave)[https://magenta.tensorflow.org/maestro-wave2midi2wave]
